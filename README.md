@@ -1,2 +1,3 @@
 # hello-world
-This is my first lab task of the course OSS
+I am Ahmed Abdullah from BSCS 8A
+I do what suits me
